@@ -1,0 +1,37 @@
+# --- Compiled object files and executables ---
+*.o
+*.o.d
+*.exe
+
+# --- Build output directories ---
+/out/
+/src/adaptive_router.exe
+
+# --- Simulation & Results ---
+/src/results/
+/src/proxy_2.log
+*.sca
+*.vci
+*.vec
+
+# --- OMNeT++ temporary files ---
+*.bak
+*.log
+*.out
+*.tmp
+
+# --- Editor/IDE files ---
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# --- OS/Tooling files ---
+.DS_Store
+Thumbs.db
+
+# --- Other ---
+*.swp
+*~

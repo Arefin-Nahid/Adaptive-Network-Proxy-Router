@@ -340,28 +340,9 @@ This simulation is ideal for studying:
 - [ ] Real-world trace replay support
 - [ ] Integration with actual network stacks (ns-3)
 
-## 📚 References
-
-- OMNeT++ Documentation: https://omnetpp.org/documentation
-- RFC 2131: Dynamic Host Configuration Protocol
-- RFC 7234: HTTP/1.1 Caching
-- "Cache Replacement Policies" - ACM Computing Surveys
-
 ## 👥 Contributing
 
 Contributions are welcome! Please:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request with detailed description
-
-## 📝 License
-
-[Specify your license here - e.g., MIT, GPL, Apache 2.0]
-
-## 📧 Contact
-
-[Your contact information]
-
----
-
-**Last Updated**: Based on simulation run at 50s with 2 clients, achieving 50% cache hit rate and detecting 2 rogue DHCP attempts with 100% accuracy.
